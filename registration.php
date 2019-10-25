@@ -1,10 +1,13 @@
 <?php
 /**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
+ * Magento 2 Spanish (Mexico) language pack
+ *
+ * @category   Language
+ * @package    es_MX
+ * @author     fasaro
  */
-declare(strict_types=1);
-
-use \Magento\Framework\Component\ComponentRegistrar;
-
-ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'bjouxmx_es_mx', __DIR__);
+\Magento\Framework\Component\ComponentRegistrar::register(
+    \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
+    'bjouxmx_es_mx',
+    __DIR__
+);
