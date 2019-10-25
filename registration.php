@@ -7,4 +7,4 @@ declare(strict_types=1);
 
 use \Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'communityengineering_es_mx', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::LANGUAGE, 'bjouxmx_es_mx', __DIR__);
