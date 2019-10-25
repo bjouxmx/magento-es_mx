@@ -1,21 +1,17 @@
 {
     "name": "bjouxmx/magento_es_MX",
-    "version": "0.0.5",
-    "type": "magento2-language",
-    "description": "es_MX language package.",
+    "description": "Spanish (Mexico) language package for Magento 2",
+    "version": "2.3.0",
     "license": [
-        "OSL-3.0",
-        "AFL-3.0"
+        "MIT"
     ],
-    "config": {
-        "sort-packages": true
-    },
     "require": {
         "magento/framework": "*"
     },
+    "type": "magento2-language",
     "autoload": {
-        "files": [
-            "registration.php"
-        ]
+      "files": [
+        "registration.php"
+      ]
     }
 }
