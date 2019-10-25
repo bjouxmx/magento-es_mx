@@ -1,7 +1,8 @@
 {
-    "name": "fasaro/magento2-es_mx-language-pack",
+    "name": "bjouxmx/magento_es_MX",
     "description": "Spanish (Mexico) language package for Magento 2",
     "version": "2.3.0",
+    "minimum-stability": "dev",
     "license": [
         "MIT"
     ],
