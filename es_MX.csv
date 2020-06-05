@@ -2777,7 +2777,7 @@ Update,Actualizar
 Login,Entrar
 "See Details","Ver información"
 "Options Details","Detalles de las opciones"
-"Cart Subtotal","Subtotal de la bolsa"
+"Cart Subtotal","Subtotal "
 "No Payment method available.","Ningún método de pago está disponible."
 "You can track your order status by creating an account.","Puedes verificar el estado de tu orden creando una cuenta."
 "Forgot an Item?","¿Ha olvidado un producto?"
@@ -6503,7 +6503,7 @@ Wishlist,"Wishlist"
 "Please see","Por favor vea"
 "details below","detalles a continuación"
 "Shipping To","Versenden an"
-"Order Review","Revisión de la orden"
+"Order Review","Resumen"
 "Grand Total:",Gesamtbetrag:
 "Submitting order information...","Enviando la información del pedido..."
 "Not all items were included.","No todos los artículos se incluyeron."
@@ -11967,5 +11967,6 @@ Translate,Traducir
 "There is already an account registered with this","Ya existe una cuenta registrada con este número"
 "This mobile number is not registered.","El número no esta registrado"
 "This mobile number is already registered","Este número ya esta registrado"
-"OTP has been sent on your mobile number ","El código ha sido enciado a su número celular"
-
+"OTP has been sent on your mobile number ","El código ha sido registrado a su número celular"
+"Enter your card details:","Ingresa los datos de tu tarjeta"
+"Address Line","Dirección / Calle / # / Colonia"
