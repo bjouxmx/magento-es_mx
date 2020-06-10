@@ -4,7 +4,7 @@
  *
  * @category   Language
  * @package    es_MX
- * @author     fasaro
+ * @author     fasaro / bjouxmx
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
